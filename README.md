@@ -1,4 +1,4 @@
-# Authenticatin with Node
+# Authenticatin with Node js
 This is the project demonstrate login express app created with node and express.
 
 ### To run this project clone it and open up the terminal. and type a command,
